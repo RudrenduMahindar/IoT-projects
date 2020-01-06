@@ -1,2 +1,2 @@
 # IoT-projects
-This repository contains projects that were completed during my training of 'Internet of Things' at Think Again Lab : https://www.thinkagainlab.com/ under the mentorship of Arjit Hazra, Naina Singh and Sayandeep Majumdar in the year 2019.  
+This repository contains projects that were completed during my training on 'Internet of Things' at [Think Again Lab](https://www.thinkagainlab.com/) under the mentorship of [Arjit Hazra](https://www.linkedin.com/in/thinkerarijithajra/), [Naina Singh](https://www.linkedin.com/in/thinkernaina/) and [Sayandeep Majumdar](https://www.linkedin.com/in/connectwithsayandeep/) in the year 2019.  
